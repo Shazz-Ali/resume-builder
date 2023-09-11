@@ -13,7 +13,7 @@ Our web application simplifies the process of creating a professional resume by 
 
 To install and run this application on your local machine, follow these steps:
 
-i. Clone this repository using `git clone https://github.com/alishanu0041/resumebuilder`
+i. Clone this repository using `git clone https://github.com/Shazz-Ali/resume-builder`
 
 ii. Navigate to the project directory using `cd resume-builder`
 
