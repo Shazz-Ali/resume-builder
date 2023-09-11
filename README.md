@@ -40,7 +40,7 @@ This project is the creation of Shahnawaz Ali, who developed it while participat
    Your contributions are highly valued and will help enhance this project.
 
 _**Live Link**_ <br/>
-<b> https:// </b>
+<b> https://react-resume-builder-project.vercel.app </b>
 
 </hr>
 
